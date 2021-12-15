@@ -1,0 +1,29 @@
+Linear regression :
+    Mean: 4.218307339462096
+    Standard deviation: 0.7232246687907774
+    Rootmean squared error : 4.277610497216961
+    
+    *model output(test) Rootmean squared error: 3.5953505591719632
+
+    
+Decision tree Regression:
+    Mean: 4.126489389984531
+    Standard deviation: 0.7694664430811895
+    Rootmean squared error : 4.110581312912739
+
+    
+    *model output(test) Rootmean squared error :  4.019023391274034
+
+
+    
+Randomforest regression:
+    Mean: 3.309903571457601
+    Standard deviation: 0.6822515398500894
+    *model output(train):
+    Rootmean squared error : 3.3675652993141454
+    
+    *model output(test) Rootmean squared error :  3.0076112516707454
+
+    
+
+
